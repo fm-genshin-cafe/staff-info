@@ -52,9 +52,7 @@
 
 *  **All the previous permissions** 
 
-* @HEAD ADMIN 
-
-* Leader of Cafe: The highest staff position in the server
+* Leader of the Staff Team: The highest staff position in the server
 
 * Demote staff: Can demote any staff members in case of any suspicious activity, such as abusing staff permissions or breaking the server rules
 
