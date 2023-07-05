@@ -20,13 +20,7 @@ We allow the front line of staff to  **make judgment calls**  to create an envir
 
 By allowing staff to bend the rules, staff will feel empowered to bypass a policy if it is in line with the server's core values (friendly, transparency, etc). It also will keep them from feeling enslaved to strict rules and sending every member’s complaint to the owner. However, it does not mean that we simply allow staff to give away the goods; It means allowing staff to make judgment calls based on individual situations.  **By handling special situations rather than sending them along, the front line of staff will save moderation time and energy.** 
 
-Let's take a look at this YouTube advertisement you might have seen before as an example:
-
- <iframe width="560" height="315"
-src="https://www.youtube.com/embed/iWDocNUskPA" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+Let's take a look at [this YouTube advertisement](https://www.youtube.com/embed/iWDocNUskPA) you might have seen before as an example:
 
 > Don't be like that weird lemonade salesperson chatbot, who simply does not know how to respond to unexpected situations like refunds.
 
