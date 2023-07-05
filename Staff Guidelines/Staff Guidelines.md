@@ -22,7 +22,11 @@ By allowing staff to bend the rules, staff will feel empowered to bypass a polic
 
 Let's take a look at this YouTube advertisement you might have seen before as an example:
 
-[Youtube](https://www.youtube.com/embed/iWDocNUskPA)
+ <iframe width="560" height="315"
+src="https://www.youtube.com/embed/iWDocNUskPA" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 > Don't be like that weird lemonade salesperson chatbot, who simply does not know how to respond to unexpected situations like refunds.
 
