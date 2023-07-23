@@ -4,8 +4,6 @@
 
 * New onboarding system to select self roles upon joining the server 
 
-![Image](https://d1uyo0yzpsnvfq.cloudfront.net/4586/0/blocks/a7347a47-581e-43bb-8911-0865d63ea996/screenshot-2022-12-28-at-5-44-34-pm.png)
-
 * Rewrote [booster perks ](https://discord.com/channels/717029019270381578/920936224699600906)using Fischl bot
 
 * Added new function in Fischl for [ticket system](https://discord.com/channels/717029019270381578/792433323045552178) to facilitate automatic response
@@ -17,8 +15,6 @@
 * Excited [partnership with bip.so ](https://discord.com/channels/717029019270381578/1057093435535929394)
 
 * Brought back gangs, but they're teams (Corresponding channels, roles and slash commands added)
-
-![Image](https://d1uyo0yzpsnvfq.cloudfront.net/4586/0/blocks/a69b9278-9aec-44e1-99a7-aa296b796a1d/screenshot-2022-12-28-at-5-48-44-pm.png)
 
 * Uses AI-generated welcome message in [general chat](https://discord.com/channels/717029019270381578/968751043884224532) to personalize greetings to new members
 
