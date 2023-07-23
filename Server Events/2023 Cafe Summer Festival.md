@@ -3,7 +3,7 @@ Hi everyone. Hope you all are having a fabulous day! After completing the channe
 
 Whenever #🍞┊chill-chat is active, a random event will occur, and all of you will have a chance to win (fake) mora! This currency can then be used to advance your level in Arcane. **Every 5 mora will be converted into 1 XP by the end of the event in around late August (capped at level 100).** Find out more at https://arcane.bot/calculator.
 
-*** You can check your mora inventory by using `/mora` and the leaderboard by using `/lb`.***
+***You can check your mora inventory by using `/mora` and the leaderboard by using `/lb`.***
 
 > _Moreover, we are working to enhance our bot channels to make it safer for everyone in the community. We will be reset all card data in @Mudae#0807 in this server within this week.  We do acknowledge the amount of time and effort it took to obtain your cards, however, this issue cannot go unattended. I hope you all understand._ 
 
