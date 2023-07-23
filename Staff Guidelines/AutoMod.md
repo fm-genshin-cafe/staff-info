@@ -1,4 +1,5 @@
-### **Update:** Since Discord implemented its default AutoMod system, we have also added a few AutoMod rules. Head over to `Server Settings > Safety Setup > AutoMod` to review them.
+### **Update in March:** 
+> Since Discord implemented its default AutoMod system, we have also added a few AutoMod rules. Head over to `Server Settings > Safety Setup > AutoMod` to review them.
 
 Since [Carl-bot](https://carl.gg) doesn't offer a lot of auto moderation tools, we also utilize [Dyno](https://dyno.gg) bot to help make our lives easier.
 
