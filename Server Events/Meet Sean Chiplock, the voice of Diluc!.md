@@ -1,12 +1,12 @@
-![Image](https://d1uyo0yzpsnvfq.cloudfront.net/4586/0/blocks/8165b744-b38c-46a0-953e-78a6b262e48b/diluc-2.jpg)
-
-## Link:
+## Links:
 
 https://discord.gg/NhtyFAC9w3?event=1102054015568728156
+https://www.awesomescreenshot.com/video/18968378?key=2c63c90bbaf4751a59ce0bb4865b8c6b
+https://youtu.be/zul2qZJ-MkQ
 
 ## Time:
 
-July 1, 2023, 10:00-12:00 (Pacific Standard Time)
+July 8, 2023, 10:00-12:00 (Pacific Standard Time)
 
 ## Details:
 
