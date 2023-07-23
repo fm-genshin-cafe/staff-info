@@ -1,8 +1,8 @@
 ## Links:
 
-https://discord.gg/NhtyFAC9w3?event=1102054015568728156
-https://www.awesomescreenshot.com/video/18968378?key=2c63c90bbaf4751a59ce0bb4865b8c6b
-https://youtu.be/zul2qZJ-MkQ
+* https://discord.gg/NhtyFAC9w3?event=1102054015568728156
+* https://www.awesomescreenshot.com/video/18968378?key=2c63c90bbaf4751a59ce0bb4865b8c6b
+* https://youtu.be/zul2qZJ-MkQ
 
 ## Time:
 
