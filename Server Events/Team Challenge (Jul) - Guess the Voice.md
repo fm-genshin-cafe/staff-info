@@ -6,7 +6,7 @@ The team with the most correct guesses at the end of the challenge will be crown
 
 ## Results
 
-🥇 @Team Inazuma - 127 points
-🥈 @Team Mondstadt - 124 points
-🥉 @Team Sumeru - 76 points
-🏅 @Team Liyue - 39 points
+- 🥇 @Team Inazuma - 127 points
+- 🥈 @Team Mondstadt - 124 points
+- 🥉 @Team Sumeru - 76 points
+- 🏅 @Team Liyue - 39 points
