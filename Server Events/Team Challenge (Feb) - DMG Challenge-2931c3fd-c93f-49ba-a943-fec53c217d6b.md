@@ -14,9 +14,9 @@ The team in the end with the highest points will be declared the winner for this
 
 1. Cryo Regisvine **** (Feb 15-18) --> 664771352099815424 (Team Liyue, 618k)
 
-1. Primo Geovishap (Feb 18-21) --> 759028556348260353 (Team Mondstadt, 684k)
+2. Primo Geovishap (Feb 18-21) --> 759028556348260353 (Team Mondstadt, 684k)
 
-1. Perpetual Mechanical Array (Feb 21-24) -->
+3. Perpetual Mechanical Array (Feb 21-24) --> [INFO LOST]
 
-1. 
+4. [INFO LOST]
 
