@@ -23,6 +23,9 @@
 - A channel where people can share works of writing, like poems, songs, and stories - similar to how people can post artworks
 - Teapots
 - A giveaway + donation (aka real money) sponsor system
+- Anime chat
+- Region friend ping similar to co-op
+- Media channel not just for #irl-pictures or #artworks
 
 ## Level Rewards 
 * Level 1: -
