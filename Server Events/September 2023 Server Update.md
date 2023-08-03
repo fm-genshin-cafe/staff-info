@@ -1,7 +1,10 @@
+## Done
+- Completed #about-us
+- New #anime-talk and #teapot-terrace channels
+- 
+
 ## To-do
-- Complete #about-us 
 - Build experts choose new build experts system
-- To-do List / Staff Info Embed System (Bip.so closed)
 - Appeal system for banned user
 
 ## Considering 
@@ -21,17 +24,15 @@
   - ✅People like roleplaying, fulfilling user demand
   - ❌A weird system in general that’s not really necessary
 - A channel where people can share works of writing, like poems, songs, and stories - similar to how people can post artworks
-- Teapots
-- A giveaway + donation (aka real money) sponsor system
-- Anime chat
+- A giveaway + donation (aka real money) sponsor system / Server Subscription
 - Region friend ping similar to co-op
-- Media channel not just for #irl-pictures or #artworks
+- Media/memes/writing/poem channel not just for #irl-pictures or #artworks
 
 ## Level Rewards 
 * Level 1: -
 * Level 3: Qualification to access team features and challenges
 * Level 5: Qualification for staff application 
-* Level 10: Access to view and send messages in #irl-pictures to 
+* Level 10: Access to send GIFs, links and images in #chill-chat to prevent raiders [WORK IN PROGRESS]
 * Level 20: Access to view and send messages in #karuta/sofi to prevent lurkers
 * Level 35: -
 * Level 40: Customized Genshin-themed graphic design (profile picture/banner) [KAI]
@@ -41,7 +42,8 @@
 * Level 90: -
 * Level 100: Access to #exclusive-area
 
-- Custom role/emote
+### Possible Rewards
+- Custom emote
 - More entries in future giveaways
 - Bypass server partnership requirement
 - Early access and/or extra entries for events and challenges
