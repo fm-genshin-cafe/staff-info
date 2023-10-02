@@ -1,6 +1,9 @@
 ## Done
 - Completed #about-us
-- New #anime-talk and #teapot-terrace channels
+- New #anime-talk, #media-and-creation #teapot-terrace channels
+- #artworks converted to media channel
+- Team Fontaine is added on September 1
+- Server Subscripions are released
 
 ## To-do
 - Build experts choose new build experts system
