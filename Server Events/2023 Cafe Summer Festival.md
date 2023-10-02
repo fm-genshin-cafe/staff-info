@@ -24,3 +24,23 @@ The top 3 members with the most mora by the end of the event will earn the estee
 ### Update on Jun 28: 
 You can now utilize the `/customize` command to personalize your mora inventory background. Keep in mind that your uploaded images will be automatically cropped, maintaining a ratio of 720x256 pixels instead of being scaled. We recommended you select an image with a similar shape to the new `/mora` inventory image. Each customization will have a cost of 5000 mora.
 
+### Update on Aug 13:
+As we are approaching near the end of summer, we have decided that the 2023 Cafe Summer Festival™️ will end on August 31.
+
+🏆 The top THREE finishers of this summer event will gain the esteemed `@Special Event Winners` role 🏅 (so decide between Arcane XPs, exclusive food roles, or this special event winner role). Until then, we will also be bringing back ALL the 12 mini events altogether :Yoimiy_yay:
+
+Moreover, all rewards you can gain from these mini events are buffed by 40% and all items purchasable in `/shop` are now 50% off! 🚨 🤑 
+
+### Update on Sep 6:
+
+Winners:
+
+@oneandonlymikey - :MORA: 2,143,542
+@jinnotgi_ne - :MORA: 2,035,680
+@sid_thesciencekid - :MORA: 1,705,651
+@kokom3 - :MORA: 1,013,428
+@alinahi - :MORA: 916,735
+
+(there are five winners instead of three because two of the top-threes are a staff member)
+
+Moras have all been converted to `@Arcane` XPs! If you have a large sum of :MORA: leftover, expect a huge increase in your level. You can use `/level` to check your latest level at any time.
