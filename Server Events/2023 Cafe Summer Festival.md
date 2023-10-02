@@ -35,11 +35,11 @@ Moreover, all rewards you can gain from these mini events are buffed by 40% and 
 
 Winners:
 
-@oneandonlymikey - :MORA: 2,143,542
-@jinnotgi_ne - :MORA: 2,035,680
-@sid_thesciencekid - :MORA: 1,705,651
-@kokom3 - :MORA: 1,013,428
-@alinahi - :MORA: 916,735
+- @oneandonlymikey - :MORA: 2,143,542
+- @jinnotgi_ne - :MORA: 2,035,680
+- @sid_thesciencekid - :MORA: 1,705,651
+- @kokom3 - :MORA: 1,013,428
+- @alinahi - :MORA: 916,735
 
 (there are five winners instead of three because two of the top-threes are a staff member)
 
