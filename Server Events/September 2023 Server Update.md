@@ -8,6 +8,10 @@
 ## To-do
 - Build experts choose new build experts system
 - Appeal system for banned user
+- Mudae
+  - All mudae users must be active in the last 30 days.
+  - Every 30 days there will be a command rolled, if you weren’t active your list gets cleared
+  - If found only rolling once every 30 days to keep your account you will be denied mudae access
 
 ## Considering 
 - Verification system
