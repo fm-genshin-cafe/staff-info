@@ -29,9 +29,6 @@
 - Family Tree for the server
   - ✅People like roleplaying, fulfilling user demand
   - ❌A weird system in general that’s not really necessary
-- A channel where people can share works of writing, like poems, songs, and stories - similar to how people can post artworks
-- A multimedia/memes channel
-- A giveaway + donation (aka real money) sponsor system / Server Subscription
 - Region friend ping similar to co-op
 
 ## Level Rewards 
