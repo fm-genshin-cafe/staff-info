@@ -10,7 +10,9 @@ The  **"customer is always right" policy**  is a good guideline to use when it c
 
 We urge staff to cherish every member of the community. While the fact that inviting one member is already hard enough, we still have to grow fast on a long-term basis. We do not tolerate any kind of action which directly or indirectly causes any members to leave, for example, treating them without respect or starting an argument.
 
-It is also important to remember that even though people may not treat you with respect, you should still  **treat them with kindness and respect** . There may be underlying reasons for why someone is behaving in a certain way, and it is important to try to understand those reasons and to be patient and understanding.  
+It is also important to remember that even though people may not treat you with respect, you should still  **treat them with kindness and respect** . There may be underlying reasons for why someone is behaving in a certain way, and it is important to try to understand those reasons and to be patient and understanding. 
+
+Do not intefere with situations or drama in the server unless it is necessary. All new staff members must obey the instructions by higher staff members. The final decisions are made by owners. If owners have disagreement, the decision will be made by Hunter instead. Failure to do so may result in a removal from the staff team or even the server.
 
 Overall,  **be calm, friendly, and professional** . Do not sink to their level, but instead remain calm and polite and try to resolve the situation in a peaceful and respectful manner. 
 
